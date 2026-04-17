@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Pix2Pix dataset and generated outputs
+Pix2Pix/__pycache__/
+Pix2Pix/datasets/
+Pix2Pix/train_results/
+Pix2Pix/val_results/
+Pix2Pix/checkpoints/
+Pix2Pix/metrics/
+Pix2Pix/train_list.txt
+Pix2Pix/val_list.txt
+
+# Optional: local logs
+*.log
