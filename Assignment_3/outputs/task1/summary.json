@@ -1,0 +1,12 @@
+{
+  "device": "cuda",
+  "num_views": 50,
+  "num_points": 20000,
+  "num_steps": 300,
+  "focal_length_px": 972.3468017578125,
+  "final_loss": 9.022568702697754,
+  "final_reprojection_loss": 9.022527694702148,
+  "final_pixel_rmse": 18.3421573638916,
+  "output_npz": "E:\\SCAI\\2026Spring\\DIP\\DIP_HW\\Assignment_3\\outputs\\task1\\bundle_adjustment_result.npz",
+  "output_obj": "E:\\SCAI\\2026Spring\\DIP\\DIP_HW\\Assignment_3\\outputs\\task1\\reconstructed_points.obj"
+}
