@@ -1,0 +1,15 @@
+{
+  "checkpoint_epoch": 180,
+  "views": 100,
+  "resolution": [
+    100,
+    100
+  ],
+  "gaussians": 13610,
+  "mean_l1": 0.021939014764502645,
+  "mean_psnr": 22.263383407592773,
+  "mean_ssim": 0.9116610783338547,
+  "render_seconds_100_views": 40.92809832763672,
+  "render_fps": 2.443309219976022,
+  "render_peak_memory_mib": 3853.4462890625
+}

@@ -1,0 +1,4 @@
+*.pyc
+.vscode
+data/chair/checkpoints/
+data/chair/official_3dgs_output

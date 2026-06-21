@@ -1,0 +1,11 @@
+{
+  "views": 100,
+  "resolution": [
+    800,
+    800
+  ],
+  "gaussians": 2135694,
+  "render_seconds_100_views": 1.9647432413101196,
+  "render_fps": 50.8972357799376,
+  "render_peak_memory_mib": 2422.97412109375
+}
